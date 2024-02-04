@@ -54,7 +54,7 @@
 
 9.  Regional Differences :    
     -   Northeast (NE) states have the highest number of loan defaults.
-    -   Iowa (IA) and Maine (ME) have lower numbers of loan defaults.  
+    -   (IA) and (ME) have lower numbers of loan defaults.  
 
 10. Loan Grade Analysis  :    
     -   Applicants with loan Grade G have the highest loan defaults.
@@ -88,7 +88,7 @@
 ## Contact
 Created by :
 -   Jitesh Rathod 
--   Bala Gorrepati
+-  Gorrepati Bala Chandra Reddy 
 
 
 <!-- Optional -->
