@@ -82,15 +82,13 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+-  This project was inspired by the need to optimize the loan approval process and mitigate financial risks in consumer finance.
 
 
 ## Contact
-Created by [@jitesh-rathod] - feel free to contact me!
-
+Created by :
+-   Jitesh Rathod 
+-   Bala Gorrepati
 
 
 <!-- Optional -->
