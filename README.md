@@ -26,16 +26,14 @@
 
 2.  Interest Rate Influence :    
     -   Interest rates below 10% have significantly lower chances of charged-off loans.
-    -   Interest rates above 16% have a higher likelihood of charged-off loans compared to other categories.
-    -   Charged-off proportions increase with higher interest rates. 
+    -   Interest rates above 16% have a higher likelihood of charged-off loans.
 
 3.  Loan Purpose Analysis :    
-    -   Small business loans have the highest average interest rates, indicating greater risk.
-    -   Loans for small businesses and debt consolidation have higher chances of defaults.
-    -   Major purchases have a lower likelihood of loan defaults .
+    -   Small business and debt consolidation loans have higher chances of defaults.
+    -   Major purchases have a lower likelihood of loan defaults.
 
 4.  Home Ownership Impact :    
-    -       Applicants without homes are more likely to default on loans.
+    -   Applicants without homes are more likely to default on loans.
 
 5.  Loan Amount Distribution :    
     -   Small business loans have the highest median, 95th percentile, and 75th percentile of loan amounts.
@@ -74,12 +72,12 @@
 
 
 ## Technologies Used
-- python - version 3.x
-- pandas - version 1.3.4
-- seaborn - version 0.12.2
-- matplotlib - version 3.5.3
-- plotly - version 5.9.0
-- Numpy - version 1.21.6
+- Python: version 3.x
+- Pandas: version 1.3.4
+- Seaborn: version 0.12.2
+- Matplotlib: version 3.5.3
+- Plotly: version 5.9.0
+- Numpy: version 1.21.6
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -92,6 +90,7 @@ Give credit here.
 
 ## Contact
 Created by [@jitesh-rathod] - feel free to contact me!
+
 
 
 <!-- Optional -->
